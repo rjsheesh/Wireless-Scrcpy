@@ -23,7 +23,7 @@ A smart and automated GUI tool built with Python (PySide6) to easily connect you
    Extract the downloaded `.zip` file into a folder on your PC.
 
 3. **Place the Script:**
-   Put the `scrcpy_gui.exe` file directly inside the extracted `scrcpy` folder (it must be in the same location as `scrcpy.exe` and `adb.exe`).
+   Put the `scrcpy_gui.py` file directly inside the extracted `scrcpy` folder (it must be in the same location as `scrcpy.exe` and `adb.exe`).
 
 4. **Install Requirements:**
 
@@ -37,7 +37,7 @@ Follow these simple steps to mirror your phone wirelessly:
     * *Note: If a prompt appears on your phone asking to "Allow USB debugging", tap **OK/Allow**.*
 * **Step 4:** Run the Python script:
     ```bash
-    fabi_scrcpy_gui.py
+    scrcpy_gui.py
     ```
 * **Step 5:** Click the **"Connect & Start Scrcpy"** button on the application.
 * **Step 6:** Wait for the success message in the log box. Once connected, you can disconnect the USB cable! `scrcpy` will launch automatically over Wi-Fi.
