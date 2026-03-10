@@ -19,9 +19,10 @@ A smart and automated GUI tool to easily connect your Android device to your PC 
 ## 📥 Download & Installation
 
 1. **Download Scrcpy and fabi_scrcpy_gui:** Download the official Windows version from the link below:
-2.  `fabi_scrcpy_gui.exe`
-   👉 [fabi_scrcpy_gui.exe](https://new9.oxxfile.info/s/i9cUVnPD45)
-   👉 [Download scrcpy-win64-v3.3.4.zip](https://github.com/Genymobile/scrcpy/releases/download/v3.3.4/scrcpy-win64-v3.3.4.zip)
+    `fabi_scrcpy_gui.exe`
+ *  👉 [fabi_scrcpy_gui.exe](https://new9.oxxfile.info/s/i9cUVnPD45)
+   
+ * 👉 [Download scrcpy-win64-v3.3.4.zip](https://github.com/Genymobile/scrcpy/releases/download/v3.3.4/scrcpy-win64-v3.3.4.zip)
 
 3. **Extract the Files:**
    Extract the downloaded `.zip` file into a folder on your PC.
